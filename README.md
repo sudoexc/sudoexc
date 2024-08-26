@@ -4,7 +4,7 @@ Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-078
 I'm a Front-End developer
 -------------------------
 
-I am 18 years old and I am a beginner Front-end developer originally from Uzbekistan, two years ago I began to be interested in programming and began to study various aspects of this field. I can say about myself that I am a purposeful, impetuous person who always thirsts for new knowledge. Having entered the university in my city, it seemed to me that this was not for me and after the first semester I left the university. Now I am engaged in my favorite profession and work remotely as a freelancer.
+I am 19 years old and I am a beginner Front-end developer originally from Uzbekistan, two years ago I began to be interested in programming and began to study various aspects of this field. I can say about myself that I am a purposeful, impetuous person who always thirsts for new knowledge. Having entered the university in my city, it seemed to me that this was not for me and after the first semester I left the university. Now I am engaged in my favorite profession and work remotely as a freelancer.
 
 * 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [javokhir.369@gmail.com](mailto:javokhir.369@gmail.com)
