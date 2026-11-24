@@ -1,17 +1,7 @@
-Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joe
-===========================================================================================================================
 
-I'm a Front-End developer
--------------------------
-
-I am 19 years old and I am a beginner Front-end developer originally from Uzbekistan, two years ago I began to be interested in programming and began to study various aspects of this field. I can say about myself that I am a purposeful, impetuous person who always thirsts for new knowledge. Having entered the university in my city, it seemed to me that this was not for me and after the first semester I left the university. Now I am engaged in my favorite profession and work remotely as a freelancer.
 
 * 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [javokhir.369@gmail.com](mailto:javokhir.369@gmail.com)
-* 🧠  I'm learning all time 
-* 🤝  I'm open to collaborating on interesing projects
-* ⚡  I'm Batman but I hide it
-
 
 ### Skills
 
